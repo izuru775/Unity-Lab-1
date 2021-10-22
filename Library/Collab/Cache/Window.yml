@@ -9,11 +9,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1611343397, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cacheType: 5
-  lastUpdatedAtString: 2021-10-22T20:05:05.379+11:00
-  initializedAtString: 2021-10-22T19:54:20.908+11:00
-  ahead: 0
-  behind: 0
+  SimpleSelectedItems:
+    m_Keys: []
+    m_Values: 
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
